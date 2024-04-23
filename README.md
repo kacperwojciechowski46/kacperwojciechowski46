@@ -1,4 +1,4 @@
-# Welcome to Kacper wojciechowski's GitHub Page!
+# Welcome to Kacper Wojciechowski's GitHub Page!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/C4D03AQGT0eMmp_fvhQ/profile-displayphoto-shrink_800_800/0/1616628238274?e=1719446400&v=beta&t=htNBoYvzGDtlMlaUBxQolKr5Fvif8QDDDDB2ahTBEis">
