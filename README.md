@@ -1,6 +1,6 @@
 # Welcome to Kacper wojciechowski's GitHub Page!
 
-![Profile Picture](url_to_your_image)
+![Profile Picture](photo)
 
 ## About Me
 
